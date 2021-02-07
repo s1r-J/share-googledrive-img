@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/share-googledrive-img/static/css/main.9c20f4c8.chunk.css",
+    "main.js": "/share-googledrive-img/static/js/main.c639df65.chunk.js",
+    "main.js.map": "/share-googledrive-img/static/js/main.c639df65.chunk.js.map",
+    "runtime-main.js": "/share-googledrive-img/static/js/runtime-main.49cf3a92.js",
+    "runtime-main.js.map": "/share-googledrive-img/static/js/runtime-main.49cf3a92.js.map",
+    "static/js/2.3b8d07fa.chunk.js": "/share-googledrive-img/static/js/2.3b8d07fa.chunk.js",
+    "static/js/2.3b8d07fa.chunk.js.map": "/share-googledrive-img/static/js/2.3b8d07fa.chunk.js.map",
+    "static/js/3.cc3a7650.chunk.js": "/share-googledrive-img/static/js/3.cc3a7650.chunk.js",
+    "static/js/3.cc3a7650.chunk.js.map": "/share-googledrive-img/static/js/3.cc3a7650.chunk.js.map",
+    "index.html": "/share-googledrive-img/index.html",
+    "static/css/main.9c20f4c8.chunk.css.map": "/share-googledrive-img/static/css/main.9c20f4c8.chunk.css.map",
+    "static/js/2.3b8d07fa.chunk.js.LICENSE.txt": "/share-googledrive-img/static/js/2.3b8d07fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49cf3a92.js",
+    "static/js/2.3b8d07fa.chunk.js",
+    "static/css/main.9c20f4c8.chunk.css",
+    "static/js/main.c639df65.chunk.js"
+  ]
+}
